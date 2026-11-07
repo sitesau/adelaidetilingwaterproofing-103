@@ -1,0 +1,22 @@
+{
+  "wheel_id": 793,
+  "structure": "umbrella",
+  "slug": "adelaidetilingwaterproofing-103",
+  "project": "tiling-adelaide-budget-tips-3247d95db192402a79dfe53f13f0405c198",
+  "parent_t1_ref": "adelaidetilingwaterproofing-151",
+  "node_role": "feeder",
+  "money_target": "adelaidetilingwaterproofing.com.au",
+  "primary_kw": "tiling adelaide budget tips",
+  "intended_url": "http://tiling-adelaide-budget-tips-3247d95db192402a79dfe53f13f0405c198.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "c65a18c428a4909c",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/adelaidetilingwaterproofing-151/",
+      "anchor": "the related resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
